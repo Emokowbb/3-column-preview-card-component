@@ -9,7 +9,7 @@
   }
   @media screen and (max-width: 375px) {
     .container{
-      width: 100%;
+      width: calc(100% / 3);
     }
     
   }
